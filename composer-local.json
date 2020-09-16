@@ -5,7 +5,7 @@
 	"require": {
 		"greenpeace/planet4-master-theme" : "dev-master",
 		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-master",
-		"wpackagist-plugin/wp-mautic": "2.*",
+		"the-open/campaigns": "dev-master",
 		"wpackagist-plugin/leadin": "7.*"		
 	},
 	"data_from": "international",
