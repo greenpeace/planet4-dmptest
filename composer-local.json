@@ -3,8 +3,8 @@
 	"description": "Greenpeace P4 dmptest",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-master-theme" : "dev-planet-6146",
-		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-all-blocks",
+		"greenpeace/planet4-master-theme" : "dev-emit-revoke-before-hubspot-loads",
+		"greenpeace/planet4-plugin-gutenberg-blocks" : "dev-add-hubspot-cookie-consent",
 		"the-open/campaigns": "dev-master",
 		"wpackagist-plugin/leadin": "8.*"		
 	},
