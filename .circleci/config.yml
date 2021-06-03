@@ -245,7 +245,6 @@ jobs:
     environment:
       <<: *common_environment
       <<: *develop_environment
-      GIT_REF: tmp-pin-instance-branches
     <<: *build_steps
 
   test-develop:
