@@ -245,6 +245,7 @@ jobs:
     environment:
       <<: *common_environment
       <<: *develop_environment
+      PARENT_VERSION: tmp-pin-instance-branches
     <<: *build_steps
 
   test-develop:
